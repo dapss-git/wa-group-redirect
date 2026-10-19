@@ -1,0 +1,10 @@
+{
+  "cleanUrls": true,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://chat.whatsapp.com/Fbe1n5rjV3p5st3vhR19vH",
+      "permanent": false
+    }
+  ]
+}
